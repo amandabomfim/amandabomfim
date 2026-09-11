@@ -52,13 +52,6 @@ Plataforma de gerenciamento de restaurantes desenvolvida com **Java**, **Spring 
 
 Aplicação bancária para gerenciamento de contas e transferências, desenvolvida com **Java**, **Spring Boot** e arquitetura hexagonal.
 
-## GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amandabomfim&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0714&title_color=C084FC&icon_color=A78BFA&text_color=E9D5FF" alt="Estatísticas do GitHub de Amanda" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabomfim&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0714&title_color=C084FC&text_color=E9D5FF" alt="Linguagens mais utilizadas por Amanda" />
-</div>
-
 ## Vamos nos conectar?
 
 Estou sempre aberta a trocar experiências sobre desenvolvimento back-end, Java e o ecossistema Spring.
